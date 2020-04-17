@@ -17,7 +17,7 @@
 
 [Level 4 -> 5]()
 
-- Find human readdable file with this: find -type f | xargs file | grep text
+- Find human readable file with this: find -type f | xargs file | grep text
   (xargs file will run the file command on each of the lines from the piped input.)
 - `pwd: koReBOKuIDDepwhWk7jZC0RTdopnAYKh`
 
@@ -49,18 +49,18 @@ Level 6 -> 7
 - (https://kongwenbin.wordpress.com/2016/08/20/overthewire-bandit-level-9-to-level-10/)
 - `pwd: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk`
 
-[Level 10 -> ]()11
+[Level 10 -> 11]()
 
 - base64 -d data.txt
 - `pwd: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR`
 
-[Level 11 -> ]()12
+[Level 11 -> 12]()
 
 - cat data.txt | tr ‘n-za-mN-ZA-M’ ‘a-zA-Z’
 - (https://www.chmag.in/articles/momsguide/decoding-rot-using-the-echo-and-tr-commands-in-your-linux-terminal/)
 - `pwd: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu`
 
-[Level 12 -> ]()13
+[Level 12 -> 13]()
 
 ```bash
 mkdir /tmp/filename
