@@ -1,6 +1,7 @@
 # linux-4-fun
 
-My linux learning notes
+- My linux learning notes
+- By m14
 
 # Table of content
 
